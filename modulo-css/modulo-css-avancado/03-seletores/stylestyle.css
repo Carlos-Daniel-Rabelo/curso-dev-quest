@@ -1,0 +1,47 @@
+h1{
+    color: green;
+}
+
+.paragrafo{
+    color: blue;
+}
+
+#menu{
+    margin-left: 100px;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+.titulo.vermelho{
+    color: red;
+}
+
+.titulo.laranja{
+    color: orange;
+}
+
+p, span{
+    font-size: 10px;
+}
+
+.sobre .texto{
+    color: palevioletred;
+}
+
+/* div > p{
+    color: royalblue;
+} */
+
+div + p{
+    color: royalblue;
+}
+
+a[target=_blank]{
+    color: red;
+}
+
+a[href="google.com"]{
+    color: red;
+}

@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.texto{
+    margin: 40px;
+    padding: 20px;
+    width: 500px;
+    height: auto;
+}
+
+.paragrafo-padrao{
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destacado{
+    background-color: #F0CCE2;
+}
